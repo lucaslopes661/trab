@@ -1,11 +1,3 @@
-<?php
-session_Start();
-
-$email = $_SESSION['userEmail'];
-$id = $_SESSION['userId'] ;
-
-?>
-
 <html>
 <head>
     <title>HOME PAGE</title>
@@ -28,13 +20,11 @@ $id = $_SESSION['userId'] ;
     </ul>
   </div>
 </nav>
-  
-    <h3>
-        Bem Vindo <?php echo $email; ?>
-</h3>
-
+  <h1>Contato</h1>
     <p>
-        <a href="logoff.php">Logooff</a>
+         Email:lucaslopesgrisolia@gmail.com, lucasouza415@gmail.com, caiobarbosasoriano@gmail.com    
     </p>
+    <p>
+    Telefone: 21 999999999, 21 988888888, 21 977777777
 </body>
 </html>

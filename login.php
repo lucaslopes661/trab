@@ -16,7 +16,6 @@
     <button type="submit">Login</button>
     </div>
 </form>
-
 <?php
     if(isset($_GET['err'])){
 
@@ -32,6 +31,7 @@
     }
 ?>
 
+  
 </body>
 
 </html>
