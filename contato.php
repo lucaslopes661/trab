@@ -21,6 +21,7 @@
   </div>
 </nav>
   <h1>Contato</h1>
+  <p> Desenvolvedores:Lucas Lopes, Lucas Souza, Caio Barbosa
     <p>
          Email:lucaslopesgrisolia@gmail.com, lucasouza415@gmail.com, caiobarbosasoriano@gmail.com    
     </p>
